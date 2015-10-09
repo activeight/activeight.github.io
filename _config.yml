@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://activeight.github.io
+title: activeight
+paginate: 5
